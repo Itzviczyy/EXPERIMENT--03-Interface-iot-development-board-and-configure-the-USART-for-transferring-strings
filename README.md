@@ -116,7 +116,7 @@ int main(void)
 
     while (1)
     {
-        printf("Ahil Santo\r\n");
+        printf("Vignesh G\n");
         HAL_Delay(500);
     }
 }
